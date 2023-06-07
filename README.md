@@ -72,6 +72,14 @@ Please ensure your code adheres to the project's coding conventions and includes
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
 
+Some SS.
+![Screenshot 2023-06-07 140950](https://github.com/Nee-Shar/Twitter-Clone/assets/99169026/2cf15056-bcf1-4091-9710-d3a0a6d89649)
+![Screenshot 2023-06-07 141053](https://github.com/Nee-Shar/Twitter-Clone/assets/99169026/8b753013-ffa6-4db3-b391-1a54320e5eea)
+![Screenshot 2023-06-07 140725](https://github.com/Nee-Shar/Twitter-Clone/assets/99169026/d630f52d-d288-464c-ad72-292979594c32)
+![Screenshot 2023-06-07 140816](https://github.com/Nee-Shar/Twitter-Clone/assets/99169026/a36983bb-0774-4325-9e26-9cb08c26dc31)
+![Screenshot 2023-06-07 140901](https://github.com/Nee-Shar/Twitter-Clone/assets/99169026/e87727e8-1417-49da-95fe-205ae8061090)
+
+
 ## Acknowledgments
 
 - [React](https://reactjs.org) - JavaScript library for building user interfaces.
